@@ -1,0 +1,471 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"php",
+				"php"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"alert",
+				"alert"
+			],
+			[
+				"left",
+				"margin-left"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"search",
+				"searchtext"
+			],
+			[
+				"sp",
+				"span\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"bot",
+				"button\tTag"
+			],
+			[
+				"s",
+				"submit"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"f",
+				"form\tTag"
+			],
+			[
+				"h",
+				"header\tTag"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"fi",
+				"figcaption\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"todo",
+				"todo"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"SUPLI",
+				"SublimeCodeIntel: Disable Live Autocompletion"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Control: INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: a",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"lorem",
+			"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package';",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/carpeta_django/mysite/polls/templates/polls/static/polls/style.css",
+		"/C/carpeta_django/mysite/mysite/urls.py",
+		"/C/carpeta_django/mysite/polls/templates/polls/results.html",
+		"/C/carpeta_django/mysite/polls/admin.py",
+		"/C/carpeta_django/mysite/polls/templates/polls/detail.html",
+		"/C/carpeta_django/mysite/polls/templates/polls/index.html",
+		"/C/carpeta_django/mysite/polls/models.py",
+		"/C/carpeta_django/mysite/mysite/settings.py",
+		"/C/carpeta_django/mysite/polls/menus.py",
+		"/C/carpeta_django/mysite/polls/migrations/0002_tablas.py",
+		"/C/carpeta_django/mysite/polls/urls.py",
+		"/C/carpeta_django/mysite/polls/views.py",
+		"/C/carpeta_django/myproject/myproject/settings.py",
+		"/C/carpeta_django/anuncios/models.py",
+		"/C/carpeta_django/proj1/app1/urls.py",
+		"/C/carpeta_django/proj1/app1/apps.py",
+		"/C/carpeta_django/proj1/app1/views.py",
+		"/C/carpeta_django/proj1/proj1/urls.py",
+		"/C/carpeta_django/proj1/app1/templates/post_lista2.html",
+		"/C/carpeta_django/proj1/si/views.py",
+		"/C/carpeta_django/proj1/si/urls.py",
+		"/C/carpeta_django/proj1/si/templates/post_list2.html",
+		"/C/carpeta_django/proj1/proj1/templates/post_list.html",
+		"/C/carpeta_django/proj1/si/models.py",
+		"/C/carpeta_django/proj1/si/admin.py",
+		"/C/carpeta_django/proj1/proj1/settings.py",
+		"/C/carpeta_django/myproject/myproject/urls.py",
+		"/C/carpeta_django/sistinte/sistinte/settings.py",
+		"/C/carpeta_django/sistinte/sistinte/si/apps.py",
+		"/C/carpeta_django/sistinte/si/apps.py",
+		"/C/carpeta_django/sistinte/si/models.py",
+		"/C/carpeta_django/sistinte/si/admin.py",
+		"/C/carpeta_django/myproject/myproject/apps/myapp/urls.py",
+		"/C/carpeta_django/myproject/myproject/apps/myapp/views.py",
+		"/C/carpeta_django/myproject/myproject/templates/post_list2.html",
+		"/C/carpeta_django/myproject/myproject/apps/myapp/forms.py",
+		"/C/carpeta_django/myproject/myproject/apps/myapp/templates/post_list2.html",
+		"/C/carpeta_django/myproject/myproject/apps/myapp/apps.py",
+		"/C/carpeta_django/myproject/myproject/apps/templates/post_list2.html",
+		"/C/carpeta_django/mysite/mysite/apps/polls/views.py",
+		"/C/carpeta_django/mysite/templates/post_detail.html",
+		"/C/carpeta_django/mysite/mysite/apps/templates/post_list2.html",
+		"/C/carpeta_django/mysite/templates/post_list2.html",
+		"/C/carpeta_django/mysite/templates/base.html",
+		"/C/carpeta_django/mysite/templates/post_list.html",
+		"/C/carpeta_django/mysite/polls/base.html",
+		"/C/carpeta_django/mysite/mysite/wsgi.py",
+		"/C/carpeta_django/holamundo/saludo/urls.py",
+		"/C/carpeta_django/holamundo/settings.py",
+		"/C/carpeta_django/holamundo/saludo/views.py",
+		"/C/carpeta_django/holamundo/urls.py",
+		"/C/carpeta_django/holamundo/saludos/apps.py",
+		"/C/carpeta_django/holamundo/holamundo/settings.py",
+		"/C/carpeta_django/holamundo/holamundo/urls.py",
+		"/C/carpeta_django/holamundo/saludos/views.py",
+		"/C/carpeta_django/templates/saludo.html",
+		"/C/antonio/auxiliar/manage.py",
+		"/C/antonio/nuevoprojecto/settings.py",
+		"/C/antonio/unodepiera/__init__.py",
+		"/C/antonio/unodepiera/models.py",
+		"/C/antonio/manage.py",
+		"/C/djangogirls/mysite/settings.py",
+		"/C/djangogirls/requirements.txt",
+		"/C/antonio/proyecto1/settings.py",
+		"/C/antonio/antonio/settings.py",
+		"/C/antonio/asistenciaintegral/models.py",
+		"/C/myproyecto/myproyecto/settings.py",
+		"/C/myproyecto/my_apply/models.py",
+		"/C/myproyecto/proj1/settings.py",
+		"/C/djangogirls/manage.gag",
+		"/C/djangogirls/precli_app/migrations/__init__.py",
+		"/C/djangogirls/precli_app/models.py",
+		"/C/djangogirls/precli_app/admin.py",
+		"/C/djangogirls/manage.py",
+		"/C/myproyecto/precli/models.py",
+		"/C/myproyecto/manage.py",
+		"/C/myproyecto/settings.py",
+		"/C/myproyecto/__init__.py",
+		"/C/myproyecto/mysite/Scripts/Activate.ps1",
+		"/C/myproyecto/mysite/Scripts/deactivate.bat",
+		"/C/myproyecto/mysite/Scripts/activate.bat",
+		"/C/myproyecto/blog/models.py",
+		"/C/myproyecto/inscricli/inscricli/settings.py",
+		"/C/myproyecto/mysite/polls/urls.py",
+		"/C/myproyecto/mysite/polls/views.py",
+		"/C/djangogirls/polls/urls.py",
+		"/C/djangogirls/polls/views.py",
+		"/C/mysite/mysite/mysite/wsgi.py",
+		"/C/mysite/mysite/mysite/urls.py",
+		"/C/mysite/mysite/mysite/settings.py",
+		"/C/mysite/mysite/mysite/__init__.py",
+		"/C/xampp/htdocs/prueba/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/bajar_ofi/index1.php",
+		"/C/xampp/htdocs/gmi/cli/.env",
+		"/C/xampp/htdocs/gmi/cli/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/gmi/cli/resources/views/home.blade.php",
+		"/C/xampp/htdocs/gmi/cli/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/gmi/cli/resources/views/auth/login.blade.php",
+		"/C/xampp/htdocs/gmi/cli/config/app.php",
+		"/C/xampp/htdocs/gmi/cli/database/migrations/2018_05_06_041016_password_resets_table.php",
+		"/C/xampp/htdocs/gmi/cli/database/migrations/2018_05_06_042057_create_resets_table.php",
+		"/C/xampp/htdocs/gmi/cli/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/C/xampp/htdocs/prueba/app/libro.php",
+		"/C/xampp/htdocs/gmi/cli/config/database.php",
+		"/C/xampp/htdocs/gmi/cli/app/User.php",
+		"/C/xampp/htdocs/ptoventa/.env",
+		"/C/xampp/htdocs/prueba/resources/views/auth/login.blade.php",
+		"/C/xampp/htdocs/prueba/app/Http/Controllers/RestfulController.php",
+		"/C/xampp/htdocs/ptoventa/config/database.php",
+		"/C/xampp/htdocs/prueba/app/Http/Controllers/Auth/LoginController.php",
+		"/C/xampp/htdocs/prueba/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/C/Users/usuario/Desktop/index.html",
+		"/C/xampp/htdocs/prueba/resources/views/home.blade.php",
+		"/C/Users/usuario/AppData/Roaming/Sublime Text 3/Packages/User/All Autocomplete.sublime-settings",
+		"/C/Users/usuario/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/usuario/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+		"/C/xampp/htdocs/prueba/config/app.php",
+		"/C/xampp/htdocs/prueba/routes/web.php",
+		"/C/xampp/htdocs/prueba/resources/views/auth/register.blade.php",
+		"/C/xampp/htdocs/prueba/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/C/xampp/htdocs/prueba/app/Http/Controllers/HomeController.php",
+		"/C/xampp/htdocs/prueba/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/xampp/htdocs/prueba/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php",
+		"/C/xampp/htdocs/prueba/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ThrottlesLogins.php",
+		"/C/xampp/htdocs/prueba/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php",
+		"/C/xampp/htdocs/prueba/app/Http/Middleware/midingresalibro.php",
+		"/C/xampp/htdocs/prueba/resources/views/ingresalibro.blade.php",
+		"/C/xampp/htdocs/prueba/app/Http/Controllers/PostController.php"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "manage.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"phpGrid_Lite\\js\\install.txt"
+			],
+			[
+				"",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 822.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 298.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
